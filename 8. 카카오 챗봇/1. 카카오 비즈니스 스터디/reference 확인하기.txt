@@ -1,0 +1,31 @@
+#1. 카카오 비즈니스 
+채널 생성 (사전 사업자 등록 및 인증절차) 
+-> 링크: https://kakaobusiness.gitbook.io/main/channel/start
+관리자 관리 
+-> 링크: https://kakaobusiness.gitbook.io/main/channel/run/stats#id-3
+
+#2. 채널 활용 활용사례 
+-> 링크: https://kakaobusiness.gitbook.io/main/tool/bizform/run
+
+
+#3. 채널 활용 기능 
+
+비즈플러그인
+-> 링크: https://kakaobusiness.gitbook.io/main/tool/bizform/check
+
+지식(학습/데이터 셋)
+-> 링크: https://kakaobusiness.gitbook.io/main/tool/knowledge/concepts/knowledgebase
+
+챗봇 생성 및 관리
+-> 링크: https://kakaobusiness.gitbook.io/main/tool/chatbot/start
+
+스마트 채팅 
+-> 링크: https://kakaobusiness.gitbook.io/main/channel/run/biztool#id-4
+
+고객 정보 조회 
+-> 랑크: https://kakaobusiness.gitbook.io/main/channel/run/chat#id-1-10
+
+상담톡/친구톡; 사용자 응답 형식 지원
+-> 링크: https://kakaobusiness.gitbook.io/main/ad/bizmessage/notice-friend 
+-> 링크: https://developers.kakao.com/docs/latest/ko/message/rest-api#default-template-msg
+
